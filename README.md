@@ -1,2 +1,0 @@
-# testingfakinapp
-testingfakinapp
